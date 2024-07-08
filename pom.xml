@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>sc01-eureka</module>
+        <module>sc02-nacos</module>
     </modules>
 
     <parent>
